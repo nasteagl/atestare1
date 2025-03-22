@@ -48,5 +48,55 @@
         "id": "33db811d-a390-49e6-967f-87e11d679e24",
         "name": "Swift",
         "url": "/src/assets/swift.svg"
+    },
+    {
+        "id": "f19f570f-1cc6-4301-8d51-734c28740e5d",
+        "name": "CPP",
+        "url": "/src/assets/cpp.svg"
+    },
+    {
+        "id": "7a8ba1fd-9035-406b-a4bb-d65d2d6ad300",
+        "name": "Java",
+        "url": "/src/assets/java.svg"
+    },
+    {
+        "id": "89395ae1-664d-41a2-bae6-f4ccccd39051",
+        "name": "JavaScript",
+        "url": "/src/assets/javascript.svg"
+    },
+    {
+        "id": "d5635242-4be1-4784-95aa-5545f0b5b4f0",
+        "name": "Python",
+        "url": "/src/assets/python.svg"
+    },
+    {
+        "id": "4470a2c5-2b80-442d-8517-66944faaef1c",
+        "name": "PHP",
+        "url": "/src/assets/php.svg"
+    },
+    {
+        "id": "8855100c-6015-453e-8fbc-2aaced22f80d",
+        "name": "C",
+        "url": "/src/assets/c.svg"
+    },
+    {
+        "id": "2ffb1bf5-a6e7-4c10-a1e2-9b5df50b1600",
+        "name": "Go",
+        "url": "/src/assets/go.svg"
+    },
+    {
+        "id": "fb02e30d-13d0-4a0d-b21b-b2d2e7e3b80c",
+        "name": "Kotlin",
+        "url": "/src/assets/kotlin.svg"
+    },
+    {
+        "id": "2ffa7702-b8d4-41c1-9afb-cae132c87976",
+        "name": "Rust",
+        "url": "/src/assets/rust.svg"
+    },
+    {
+        "id": "33db811d-a390-49e6-967f-87e11d679e24",
+        "name": "Swift",
+        "url": "/src/assets/swift.svg"
     }
 ]

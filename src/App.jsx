@@ -1,5 +1,8 @@
+import GridTable from "./components/GridTable.jsx";
 function App() {
-    return <></>;
+    return <>
+    <GridTable />
+    </>;
 }
 
 export default App;
